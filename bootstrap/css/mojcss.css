@@ -1,0 +1,186 @@
+
+.item{
+    height: 30vw;
+}
+
+navbarNav{
+    margin-left: 400px; 
+}
+.nav{
+   height: 60px;
+}
+.nav-link{
+    font-size: 24px;
+    color: brown; 
+    align-self: right;
+    font-weight: bold;
+}
+
+.noviLogo{
+    width: 8%; 
+    height: 8%; 
+    float: left;
+}
+
+.navbar-toggler{
+    margin-left: 320px;
+}
+
+.container-fluid{
+    margin-top: 2%; 
+}
+
+.nav-item{
+    padding-left: 30px; 
+}
+
+.navbar-collapse{
+    margin-top: 3%; 
+}
+
+.container{
+    margin-top: 1vw; 
+}
+
+img{
+    width: 100%; 
+    height: 97%; 
+}
+
+p{
+    border: 2px double brown; 
+    border-radius: 5%;
+    padding: 2vw; 
+    text-align: justify;
+    font-size: 18px;
+    color:brown;
+    line-height: 2.2;
+}
+
+.footer{
+    margin-top: 1vw; 
+    background-color: #874320; 
+    opacity: 0.8; 
+    height: 6vw;
+    position: relative; 
+    clear: both; 
+   
+}
+
+.col-lg-2.img{
+    width: 250px; 
+}
+
+.desavanja-slike{
+    width: 100%; 
+    height: 98%; 
+}
+
+.paragraf{
+    color:brown;
+    padding: 1vw; 
+    border: 2px solid brown; 
+    border-radius: 5%;
+    line-height: none;
+    font-size: 14px; 
+    
+}
+
+h1, h3{
+    color: brown; 
+    padding-top: 10px; 
+    padding-bottom: 10px; 
+    border: 2px solid brown; 
+    margin-left: auto; 
+    margin-right: auto; 
+    text-align: center;
+}
+
+.galerija-slike{
+    width: 95%; 
+    height: 95%;
+    margin-left: auto; 
+    margin-right: auto; 
+    padding-left: 3vw; 
+}
+
+.kontakt-podaci{
+    text-align: center;
+}
+
+
+
+.pasus{
+    line-height: 1.9;
+    font-size: 18px;
+    color:brown; 
+    padding:10px; 
+    border: 2px solid brown; 
+    border-radius: 5%; 
+}
+
+.social-link-image{
+    width:100%; 
+    height: 100%; 
+}
+
+.centrirano{
+    margin-left:auto; 
+    margin-right: auto; 
+}
+
+.kontakt-najveci-div{
+    margin-top: 2vw; 
+    margin-left: auto; 
+    margin-right: auto; 
+    
+}
+
+textarea{
+    width: 100%; 
+    height: 100%; 
+}
+
+.margin-top{
+    margin-top: 2vw; 
+}
+
+iframe{
+    height: 20vw; 
+    width: 40vw; 
+
+}
+
+.social-link{
+    width: 2vw; 
+    height: 2vw; 
+    
+}
+
+a{
+    padding-left: 4vw; 
+   
+}
+
+.linkovi{
+    display: flex;
+        display: -webkit-flex;
+
+        flex-direction: row;
+        -webkit-flex-direction: row;
+
+        flex-wrap: wrap;
+        -webkit-flex-wrap: wrap;
+
+        justify-content: center;
+        -webkit-justify-content: center;
+    margin: 0;
+    padding-top:2vw;
+}
+i {
+
+    border: 3px solid yellow;
+    margin: 10px;
+    padding: 5px;
+    
+}
